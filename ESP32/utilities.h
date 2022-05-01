@@ -1,0 +1,2 @@
+void checkSPIFFS();
+void editJsonDoc();
